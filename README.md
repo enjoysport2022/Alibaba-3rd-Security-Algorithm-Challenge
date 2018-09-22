@@ -1,4 +1,5 @@
 # 第三届阿里云安全算法挑战赛冠军代码
+## 比赛链接：https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afwZ9hM7&raceId=231668
 
 ## ppt: 上地西二旗人民.pptx
 
