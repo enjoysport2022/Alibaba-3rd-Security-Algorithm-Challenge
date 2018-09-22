@@ -1,1 +1,9 @@
-# Alibaba-3rd-Security-Algorithm-Challenge
+## 代码按照以下运行顺序
+* main_train.ipynb
+* main_test.ipynb
+* gene_npy.ipynb
+* lgb_meta_features.ipynb
+* CNN_metafeature.ipynb
+* CNN_metafeature_dilated.ipynb
+* pickle_pre.ipynb
+* submit.ipynb
